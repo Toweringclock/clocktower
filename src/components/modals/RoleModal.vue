@@ -115,6 +115,10 @@ export default {
 <style scoped lang="scss">
 @import "../../vars.scss";
 
+  .modal{
+    overflow-y: auto;
+    overflow-x: hidden;
+  }
 ul.tokens li {
   border-radius: 50%;
   width: 6vw;
