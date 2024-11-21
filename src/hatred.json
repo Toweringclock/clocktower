@@ -372,5 +372,37 @@
         "reason": "If the Lleech has poisoned the Heretic then the Lleech dies, the Heretic remains poisoned."
       }
     ]
-  }
+  },
+{
+   "id": "Kazali",
+   "hatred": [
+     {
+       "id": "Bounty Hunter",
+       "reason": "An evil Townsfolk is only created if the Bounty Hunter is still in play after the Kazali acts."
+     },
+     {
+       "id": "Choirboy",
+       "reason": "The Kazali can not choose the King to become a Minion if a Choirboy is in play."
+     },
+     {
+       "id": "Goon",
+       "reason": "The Kazali can choose that the Goon player is one of their evil Minions."
+     },
+     {
+       "id": "Huntsman",
+       "reason": "If the Kazali chooses the Damsel to become a Minion, and a Huntsman is in play, a good player becomes the Damsel."
+     },
+     {
+       "id": "Marionette",
+       "reason": "If the Kazali chooses to create a Marionette, they must choose one of their neighbors."
+     },
+     {
+       "id": "Soldier",
+       "reason": "The Kazali can choose that the Soldier player is one of their evil Minions."
+     },
+     {
+       "id": "Summoner",
+       "reason": "The Summoner cannot create an in-play Demon. If the Summoner creates a not-in-play Demon, deaths tonight are arbitrary."
+     }
+   ]
 ]
