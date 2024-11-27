@@ -1755,19 +1755,6 @@
     "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
   },
   {
-    "id": "boffin",
-    "name": "Boffin",
-    "edition": "",
-    "team": "minion",
-    "firstNight": 7,
-    "firstNightReminder": "",
-    "otherNight": 0,
-    "otherNightReminder": "",
-    "reminders": [],
-    "setup": false,
-    "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character's ability. You both know which."
-  },
-  {
     "id": "harpy",
     "name": "Harpy",
     "edition": "",
