@@ -1886,5 +1886,19 @@
     "reminders": [],
     "setup": false,
     "ability": "If there are 5 or more players alive, you must vote for every nomination"
+  },
+  {
+    "id": "ogre",
+    "name": "Ogre",
+    "edition": "",
+    "team": "outsider",
+    "firstNight": 64,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["Good",
+      "Evil"],
+    "setup": false,
+    "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned."
   ]
 
