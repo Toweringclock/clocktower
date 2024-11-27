@@ -1861,20 +1861,7 @@
     "setup": false,
     "ability": "If you died today or tonight, the Minion & Demon players may choose new Minion & Demon characters to be."
   },
-   {
-    "id": "ogre",
-    "name": "Ogre",
-    "edition": "outside",
-    "team": "",
-    "firstNight": 64,
-    "firstNightReminder": "",
-    "otherNight": 0,
-    "otherNightReminder": "",
-    "reminders": [],
-    "setup": false,
-    "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned"
-  },
-   {
+  {
     "id": "",
     "name": "",
     "edition": "",
@@ -1887,7 +1874,7 @@
     "setup": false,
     "ability": ""
   },
-   {
+  {
     "id": "",
     "name": "",
     "edition": "",
@@ -1900,7 +1887,7 @@
     "setup": false,
     "ability": ""
   },
-   {
+  {
     "id": "",
     "name": "",
     "edition": "",
@@ -1913,7 +1900,7 @@
     "setup": false,
     "ability": ""
   },
-   {
+  {
     "id": "",
     "name": "",
     "edition": "",
@@ -1926,7 +1913,7 @@
     "setup": false,
     "ability": ""
   },
-   {
+  {
     "id": "",
     "name": "",
     "edition": "",
