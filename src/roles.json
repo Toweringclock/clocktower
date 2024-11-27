@@ -1738,6 +1738,22 @@
     "reminders": [],
     "setup": false,
     "ability": "Once per day, you may choose to kill an alive neighbour, if your other alive neighbour agrees."
-  }
+  },
+  {
+    "id": "summoner",
+    "name": "Summoner",
+    "edition": "",
+    "team": "minion",
+    "firstNight": 16,
+    "firstNightReminder": "Place the Summoner 'Day 1' marker.",
+    "otherNight": 7,
+    "otherNightReminder": "Change the Summoner Day reminder for the next day.",
+    "reminders":["Day 1",
+      "Day 2",
+      "Day 3"],
+    "setup": false,
+    "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]"
+  },
+  
 ]
 
