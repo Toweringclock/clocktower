@@ -1876,7 +1876,7 @@
   },
   {
     "id": "zealot"
-    "name": "Zealot"
+    "name": "Zealot",
     "edition": "",
     "team": "outsider"
     "firstNight": 0,
@@ -1886,7 +1886,7 @@
     "reminders": [],
     "setup": false,
     "ability": "If there are 5 or more players alive, you must vote for every nomination."
-  }
+  },
 ]
   
 
