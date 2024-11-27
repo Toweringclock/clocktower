@@ -1874,19 +1874,19 @@
     "setup": false,
     "ability": "When you die, the Storyteller gains a Minion ability."
   },
-  { 
-    "id": "zealot",
-    "name": "Zealot",
+  {
+    "id": "zealot"
+    "name": "Zealot"
     "edition": "",
-    "team": "outsider",
+    "team": "outsider"
     "firstNight": 0,
     "firstNightReminder": "",
     "otherNight": 0,
     "otherNightReminder": "",
     "reminders": [],
     "setup": false,
-    "ability": "If there are 5 or more players alive, you must vote for every nomination",
-  },
-  "id":
+    "ability": "If there are 5 or more players alive, you must vote for every nomination."
+  }
+]
   ]
 
